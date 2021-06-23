@@ -1,0 +1,10 @@
+/* FAVOR DE LEER */
+
+Instrucciones:
+	1. Dentro de la carpeta "Pokémon Lets GO" ejecutar con make.
+	2. Correr el programa con ./main.
+
+Favor de leer:
+	No pude lograr que el programa compile si tengo los archivos Pikachu.cpp, Pikachu.hpp,
+	Objeto.cpp y Objeto.hpp dentro de la carpeta include, ya lo probe con varias maquinas virtuales
+	y la unica forma de que compile es si los dejo en el main y ejecuto con Make
